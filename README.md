@@ -4,9 +4,6 @@
 Analysis of crime data for London / a London postcode
 
 ## Ideas for Analysis
-Cross it with weather and demographic (census) data or other sources and see what crimes are affected by weather, season, regional income, neighborhood, population density, unemployment, taxes, home values, etc.
-
-## Ideas for Analysis
 * Cross it with weather and demographic (census) data or other sources and see what crimes are affected by weather, season, regional income, neighborhood, population density, unemployment, taxes, home values, etc.
 * See what crimes are increasing or decreasing, at what rate and over what timeframes.  Try to figure out why.
 * Pick and discover good metrics… total crimes may go up less than the population, so crimes per person (often crimes per 100,000 people) is a common metric, as is crimes per square mile if you're reporting by county/city/region.  Come up with others.
